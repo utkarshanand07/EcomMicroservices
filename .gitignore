@@ -5,6 +5,7 @@ target/
 data
 Help.md
 .dockerignore
+mysql
 /mysql
 
 ### IntelliJ IDEA ###
