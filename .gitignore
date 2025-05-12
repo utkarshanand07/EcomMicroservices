@@ -5,6 +5,8 @@ target/
 data
 Help.md
 .dockerignore
+api-gateway/volume-data
+*.sock
 mysql
 /mysql
 
