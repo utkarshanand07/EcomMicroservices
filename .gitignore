@@ -7,6 +7,8 @@ Help.md
 .dockerignore
 api-gateway/volume-data
 *.sock
+client/node_modules
+client/.angular
 mysql
 /mysql
 
